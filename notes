@@ -50,3 +50,4 @@ npm install eslint-plugin-react -g
 npm install eslint-plugin-react --save-dev
 
  npm run lint
+ npm install eslint-loader --save-dev
